@@ -2805,7 +2805,6 @@ C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/juegociencia.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/juegociencia.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/runningman.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/scenebase.h
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/submesasintesis.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/labdescartes.h
  mmc:Q_OBJECT
  mdp:C:/Qt/6.9.1/mingw_64/include/QtCore/QList
@@ -5150,6 +5149,7 @@ C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/npcbatalla.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Estru2Parcial1Qt_autogen/moc_predefs.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/npcbatalla.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/Player.h
+C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/playerstats.h
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/puertajuegohistoria.h
  mmc:Q_OBJECT
  mdp:C:/Qt/6.9.1/mingw_64/include/QtCore/QList
@@ -6719,7 +6719,6 @@ C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/runningman.h
  mdp:C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Estru2Parcial1Qt_autogen/moc_predefs.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/runningman.h
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/submesaenumeracion.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/scenebase.h
  mmc:Q_OBJECT
  mdp:C:/Qt/6.9.1/mingw_64/include/QtCore/QList
@@ -7891,6 +7890,7 @@ C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/startscene.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Estru2Parcial1Qt_autogen/moc_predefs.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/scenebase.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/startscene.h
+C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/statsfile.h
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/subescenapizarra.h
  mmc:Q_OBJECT
  mdp:C:/Qt/6.9.1/mingw_64/include/QtCore/QList
@@ -8273,14 +8273,6 @@ C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/subescenapizarra.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Estru2Parcial1Qt_autogen/moc_predefs.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/scenebase.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/subescenapizarra.h
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/vertice.h
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/submesaanalisis.h
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/statsfile.cpp
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/submesaenumeracion.h
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/subescenalibro.cpp
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/runningman.cpp
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/submesaevidencia.h
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/submesasintesis.h
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/terracescene.h
  mmc:Q_OBJECT
  mdp:C:/Qt/6.9.1/mingw_64/include/QtCore/QList
@@ -8709,6 +8701,7 @@ C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/terracescene.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/startscene.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/statsfile.h
  mdp:C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/terracescene.h
+C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/vertice.h
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/main.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/Player.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/game.cpp
@@ -8721,9 +8714,8 @@ C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/videoscene.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/mapa.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/menupartidadialog.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/ruletascene.cpp
+C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/subescenalibro.cpp
+C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/runningman.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/scenebase.cpp
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/submesaanalisis.cpp
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/submesaevidencia.cpp
+C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/statsfile.cpp
 C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/terracescene.cpp
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/playerstats.h
-C:/Users/chung/OneDrive/Documents/Estru2Parcial1Qt/statsfile.h

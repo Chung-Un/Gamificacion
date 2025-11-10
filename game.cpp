@@ -657,6 +657,21 @@ void Game::keyPressEvent(QKeyEvent *event)
         }
 
         else if (currentInteraction.contains("entrar a la universidad")) {
+            if (auto* camino = qobject_cast<CaminoUni*>(currentScene)) {
+                emit camino->caminoTerminado(true);
+            }
+
+            stopLevelTimerAndStore();
+            const qint64 ms = tiemposMs.isEmpty() ? -1 : tiemposMs.back();
+            if (ms >= 0) {
+                StatsFile::upsertRun(
+                    nombreUsuario.isEmpty() ? QString("NN") : nombreUsuario,
+                    (player->bandoActual == Player::Bando::EMPIRISTA) ? 0 : 1,
+                    4,
+                    double(ms)
+                    );
+            }
+
             currentScene->removeItem(player);
             currentScene->removeItem(interactionText);
 

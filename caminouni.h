@@ -11,6 +11,8 @@ public:
 
     // ← OBLIGATORIO: implementa el puro virtual de SceneBase
     QString getSceneName() const override { return "CaminoUni"; }
+signals:
+    void caminoTerminado(bool ganado);
 };
 
 #endif // CAMINOUNI_H
